@@ -1,0 +1,1 @@
+The models directory contains code for progressive layer-wise pruning of multiple models from the project's initial phase, including backward cumulative layer-wise pruning and quantization. VGG16 is used as the validation model for compression strategies, encompassing code for implementing compression strategies and evaluating the performance after compression.
